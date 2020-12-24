@@ -1,7 +1,7 @@
 # Introduction
 Use OpenCV pybind tools (cv2.cpp & gen2.py ...) to generate a python binding use OpenCV Mat as input parameters.
 
-![issueBadge](https://img.shields.io/github/issues/TracelessLe/cv2_gen_python_bindings)   ![starBadge](https://img.shields.io/github/issues/TracelessLe/cv2_gen_python_bindings)   ![repoSize](https://img.shields.io/github/issues/TracelessLe/cv2_gen_python_bindings)  ![lastCommit](https://img.shields.io/github/issues/TracelessLe/cv2_gen_python_bindings) 
+![issueBadge](https://img.shields.io/github/issues/TracelessLe/cv2_gen_python_bindings)   ![starBadge](https://img.shields.io/github/stars/TracelessLe/cv2_gen_python_bindings)   ![repoSize](https://img.shields.io/github/repo-size/TracelessLe/cv2_gen_python_bindings)  ![lastCommit](https://img.shields.io/github/last-commit/TracelessLe/cv2_gen_python_bindings) 
 
 # Guide
 1. python3 gen2.py build
