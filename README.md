@@ -39,8 +39,14 @@ cv2.imwrite("Originalimage.png", im)
 cv2.imwrite("PythonModuleFunctionExample.png", imfilled)
 cv2.imwrite("PythonModuleClassExample.png", imedge)
 ```
-
-
+holes.jpg
+<img src="https://raw.githubusercontent.com/TracelessLe/cv2_gen_python_bindings/master/build/holes.jpg" width="450" height="auto">
+Originalimage.png
+<img src="https://raw.githubusercontent.com/TracelessLe/cv2_gen_python_bindings/master/build/Originalimage.png" width="450" height="auto">
+PythonModuleFunctionExample.png
+<img src="https://raw.githubusercontent.com/TracelessLe/cv2_gen_python_bindings/master/build/PythonModuleFunctionExample.png" width="450" height="auto">
+PythonModuleClassExample.png
+<img src="https://raw.githubusercontent.com/TracelessLe/cv2_gen_python_bindings/master/build/PythonModuleClassExample.png" width="450" height="auto">
 
 # Appreciation
-Thanks for spmallick for his inspiring [learnopencv] (https://github.com/spmallick/learnopencv/tree/master/pymodule).
+Thanks for spmallick for his inspiring [learnopencv](https://github.com/spmallick/learnopencv/tree/master/pymodule).
