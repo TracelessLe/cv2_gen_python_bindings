@@ -1,0 +1,1 @@
+{"qy::Filters": [{"name": "qy.Filters"}], "qy::Filters::Filters": [{"name": "cv.Filters", "arg": "", "ret": "<Filters object>"}], "qy::Filters::edge": [{"name": "cv.Filters.edge", "arg": "im[, imedge]", "ret": "imedge"}], "qy::fillHoles": [{"name": "qy.fillHoles", "arg": "mat", "ret": "None"}]}
